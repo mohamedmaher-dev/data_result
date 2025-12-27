@@ -14,7 +14,7 @@ topics:
   - data
 
 environment:
-  sdk: ^3.10.4
+  sdk: ^3.0.0
 
 # screenshots:
 #   - description: "DataResult usage example with success and failure handling"
