@@ -1,0 +1,25 @@
+name: data_result
+description: A lightweight, type-safe result type for Dart that elegantly handles success and failure states without exceptions. Perfect for clean error handling in your Dart and Flutter applications.
+version: 1.0.0
+repository: https://github.com/mohamedmaher-dev/data_result
+homepage: https://github.com/mohamedmaher-dev/data_result
+issue_tracker: https://github.com/mohamedmaher-dev/data_result/issues
+documentation: https://pub.dev/documentation/data_result/latest/
+
+topics:
+  - result
+  - error-handling
+  - functional-programming
+  - either
+  - data
+
+environment:
+  sdk: ^3.10.4
+
+# screenshots:
+#   - description: "DataResult usage example with success and failure handling"
+#     path: screenshots/example.png
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
